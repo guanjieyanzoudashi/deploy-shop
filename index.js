@@ -1,11 +1,11 @@
 const http = require('http')
 const shell = require('shelljs')
 const createHandler = require('github-webhook-handler')
-const handler = createHandler({ path: 'http://esaon.luyuans.top:29328/webhook', secret: 'x-shop' })
+const handler = createHandler({ path: '/webhook', secret: 'x-shop' })
     // 上面的 secret 保持和 GitHub 后台设置的一致
 
-const port = 29328
-const projects = ['esaon.luyuans.top', 'x-shop',  'deploy', 'deploy-x-shop']
+const port = 9988
+const projects = ['esaon.luyuans.top', 'x-shop']
 
 const projectHandler = (event, action) => {
     const project = event.payload.repository.name // 仓库的名字
