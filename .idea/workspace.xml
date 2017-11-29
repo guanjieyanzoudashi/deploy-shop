@@ -17,17 +17,27 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+            <state relative-caret-position="27">
+              <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="x-shop.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GoodsList.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../xxxx/x-shop/client/src/pages/GoodsList.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="x-shop.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects/x-shop.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
+            <state relative-caret-position="83">
               <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="39" />
               <folding />
             </state>
@@ -36,6 +46,11 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>request</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -43,6 +58,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/../../xxxx/x-shop/client/src/pages/GoodsList.vue" />
       </list>
     </option>
   </component>
@@ -61,9 +77,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-104" />
-    <option name="y" value="185" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-188" />
+    <option name="y" value="171" />
     <option name="width" value="1378" />
     <option name="height" value="709" />
   </component>
@@ -131,15 +147,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511935914263</updated>
-      <workItem from="1511935916132" duration="1689000" />
+      <workItem from="1511935916132" duration="2363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1689000" />
+    <option name="totallyTimeSpent" value="2363000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-104" y="185" width="1378" height="709" extended-state="0" />
+    <frame x="-188" y="171" width="1378" height="709" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -172,18 +188,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.js">
+    <entry file="file://$PROJECT_DIR$/projects/x-shop.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        <state relative-caret-position="83">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/x-shop.sh">
+    <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="39" />
+        <state relative-caret-position="27">
+          <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../xxxx/x-shop/client/src/pages/GoodsList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
           <folding />
         </state>
       </provider>
